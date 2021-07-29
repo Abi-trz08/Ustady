@@ -26,7 +26,7 @@ SECRET_KEY = 'idtbd#kgl_5j6qzryrm+qxm6845_ws9og-035qjngru+ou58u-'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'ustadyapp.herokuapp.com'
+    'limitless-spire-59354.herokuapp.com'
 ]
 
 LOGIN_URL = 'login'
